@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord (Gyroben)
 - 😄 Pronouns: knee/girl
-- ⚡ Fun fact: I am a chinese live in Malaysia
+- ⚡ Fun fact: I am a human that lives in Malaysia
 
 <!---
 Gyroben/Gyroben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
